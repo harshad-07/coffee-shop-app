@@ -2,6 +2,8 @@
 
 A new Flutter project titled Coffee Shop App using Firebase for authentication.
 
+Dropbox Link to download APK : https://www.dropbox.com/scl/fi/2p71ljqcqss1mcr4wb6d3/Coffee-shop-app-debug.apk?rlkey=6f1r605g5z5563uq9q2wxn1jp&dl=0
+
 *Splash Screen* : ![Screenshot_20231122-004137](https://github.com/harshad-07/coffee-shop-app/assets/87608273/96db216d-b5c3-4731-8dec-580406567bd7)
 
 *Onbording Screen* : ![Screenshot_20231122-004156](https://github.com/harshad-07/coffee-shop-app/assets/87608273/bc71e8ba-c4de-4270-a69c-0478edae00f7) ![Screenshot_20231122-004159](https://github.com/harshad-07/coffee-shop-app/assets/87608273/201b31a1-cabe-4aa3-b2b4-ce72e945e39a)  ![Screenshot_20231122-004153](https://github.com/harshad-07/coffee-shop-app/assets/87608273/585f5066-2c93-4ebd-a5fc-83d09627299a)
